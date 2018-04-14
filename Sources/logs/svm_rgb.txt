@@ -1,0 +1,55 @@
+Experiment date: Thu Mar 29 19:08:32 2018
+Experiment Description: Multi class SVM with spooled rgb
+Data path: /home/neurobot/Datasets/classification_io/rgb/
+IO shapes: Xtrain: (12648, 1024) Ytrain: (1, 12648) Xval: (6273, 1024) Yval: (6273, 1024) Xtest: (6273, 1024) Ytest: (1, 6273)
+
+Learning rate: 1.000000E-01 Regularization strength: 1.000000E-05, TR acc: 94.030677, Val acc: 93.894468 Tst acc: 93.288698 iterations: 1000
+Learning rate: 1.000000E-01 Regularization strength: 1.500000E-05, TR acc: 94.165085, Val acc: 94.021999 Tst acc: 93.416228 iterations: 1000
+Learning rate: 1.000000E-01 Regularization strength: 2.000000E-05, TR acc: 93.066097, Val acc: 92.826399 Tst acc: 92.348159 iterations: 1000
+Learning rate: 1.000000E-01 Regularization strength: 2.500000E-05, TR acc: 94.078115, Val acc: 93.942292 Tst acc: 93.368404 iterations: 1000
+Learning rate: 1.000000E-01 Regularization strength: 3.000000E-05, TR acc: 94.078115, Val acc: 94.006058 Tst acc: 93.416228 iterations: 1000
+Learning rate: 1.000000E-01 Regularization strength: 4.000000E-05, TR acc: 94.101834, Val acc: 93.974175 Tst acc: 93.400287 iterations: 1000
+Learning rate: 1.000000E-01 Regularization strength: 5.000000E-05, TR acc: 93.089817, Val acc: 92.858282 Tst acc: 92.380041 iterations: 1000
+Learning rate: 1.000000E-02 Regularization strength: 1.000000E-05, TR acc: 91.895952, Val acc: 91.614857 Tst acc: 91.200383 iterations: 1000
+Learning rate: 1.000000E-02 Regularization strength: 1.500000E-05, TR acc: 91.911765, Val acc: 91.614857 Tst acc: 91.216324 iterations: 1000
+Learning rate: 1.000000E-02 Regularization strength: 2.000000E-05, TR acc: 91.895952, Val acc: 91.614857 Tst acc: 91.184441 iterations: 1000
+Learning rate: 1.000000E-02 Regularization strength: 2.500000E-05, TR acc: 92.773561, Val acc: 92.603220 Tst acc: 91.949625 iterations: 1000
+Learning rate: 1.000000E-02 Regularization strength: 3.000000E-05, TR acc: 91.903858, Val acc: 91.614857 Tst acc: 91.184441 iterations: 1000
+Learning rate: 1.000000E-02 Regularization strength: 4.000000E-05, TR acc: 92.718216, Val acc: 92.555396 Tst acc: 91.901801 iterations: 1000
+Learning rate: 1.000000E-02 Regularization strength: 5.000000E-05, TR acc: 91.911765, Val acc: 91.614857 Tst acc: 91.200383 iterations: 1000
+Learning rate: 1.000000E-03 Regularization strength: 1.000000E-05, TR acc: 87.847881, Val acc: 87.836761 Tst acc: 87.278814 iterations: 1000
+Learning rate: 1.000000E-03 Regularization strength: 1.500000E-05, TR acc: 87.847881, Val acc: 87.836761 Tst acc: 87.294755 iterations: 1000
+Learning rate: 1.000000E-03 Regularization strength: 2.000000E-05, TR acc: 87.847881, Val acc: 87.836761 Tst acc: 87.294755 iterations: 1000
+Learning rate: 1.000000E-03 Regularization strength: 2.500000E-05, TR acc: 87.855787, Val acc: 87.836761 Tst acc: 87.294755 iterations: 1000
+Learning rate: 1.000000E-03 Regularization strength: 3.000000E-05, TR acc: 87.855787, Val acc: 87.836761 Tst acc: 87.278814 iterations: 1000
+Learning rate: 1.000000E-03 Regularization strength: 4.000000E-05, TR acc: 87.855787, Val acc: 87.836761 Tst acc: 87.278814 iterations: 1000
+Learning rate: 1.000000E-03 Regularization strength: 5.000000E-05, TR acc: 87.254902, Val acc: 87.071577 Tst acc: 86.720867 iterations: 1000
+Learning rate: 1.000000E-04 Regularization strength: 1.000000E-05, TR acc: 79.190386, Val acc: 79.084967 Tst acc: 79.308146 iterations: 1000
+Learning rate: 1.000000E-04 Regularization strength: 1.500000E-05, TR acc: 53.874130, Val acc: 53.786067 Tst acc: 53.483182 iterations: 49
+Learning rate: 1.000000E-04 Regularization strength: 2.000000E-05, TR acc: 79.198292, Val acc: 79.084967 Tst acc: 79.308146 iterations: 1000
+Learning rate: 1.000000E-04 Regularization strength: 2.500000E-05, TR acc: 79.190386, Val acc: 79.100909 Tst acc: 79.308146 iterations: 1000
+Learning rate: 1.000000E-04 Regularization strength: 3.000000E-05, TR acc: 54.522454, Val acc: 54.599075 Tst acc: 54.088953 iterations: 46
+Learning rate: 1.000000E-04 Regularization strength: 4.000000E-05, TR acc: 79.198292, Val acc: 79.084967 Tst acc: 79.308146 iterations: 1000
+Learning rate: 1.000000E-04 Regularization strength: 5.000000E-05, TR acc: 79.198292, Val acc: 79.084967 Tst acc: 79.308146 iterations: 1000
+Learning rate: 2.000000E-02 Regularization strength: 1.000000E-05, TR acc: 93.334915, Val acc: 93.224932 Tst acc: 92.682927 iterations: 1000
+Learning rate: 2.000000E-02 Regularization strength: 1.500000E-05, TR acc: 93.382353, Val acc: 93.240874 Tst acc: 92.682927 iterations: 1000
+Learning rate: 2.000000E-02 Regularization strength: 2.000000E-05, TR acc: 93.334915, Val acc: 93.240874 Tst acc: 92.682927 iterations: 1000
+Learning rate: 2.000000E-02 Regularization strength: 2.500000E-05, TR acc: 93.295383, Val acc: 93.208991 Tst acc: 92.635103 iterations: 1000
+Learning rate: 2.000000E-02 Regularization strength: 3.000000E-05, TR acc: 93.263757, Val acc: 93.240874 Tst acc: 92.666985 iterations: 1000
+Learning rate: 2.000000E-02 Regularization strength: 4.000000E-05, TR acc: 93.350727, Val acc: 93.256815 Tst acc: 92.714810 iterations: 1000
+Learning rate: 2.000000E-02 Regularization strength: 5.000000E-05, TR acc: 93.319102, Val acc: 93.224932 Tst acc: 92.682927 iterations: 1000
+Learning rate: 2.000000E-03 Regularization strength: 1.000000E-05, TR acc: 88.954775, Val acc: 88.809182 Tst acc: 88.235294 iterations: 1000
+Learning rate: 2.000000E-03 Regularization strength: 1.500000E-05, TR acc: 88.954775, Val acc: 88.809182 Tst acc: 88.235294 iterations: 1000
+Learning rate: 2.000000E-03 Regularization strength: 2.000000E-05, TR acc: 88.085073, Val acc: 87.820819 Tst acc: 87.501993 iterations: 1000
+Learning rate: 2.000000E-03 Regularization strength: 2.500000E-05, TR acc: 88.085073, Val acc: 87.820819 Tst acc: 87.501993 iterations: 1000
+Learning rate: 2.000000E-03 Regularization strength: 3.000000E-05, TR acc: 88.085073, Val acc: 87.820819 Tst acc: 87.501993 iterations: 1000
+Learning rate: 2.000000E-03 Regularization strength: 4.000000E-05, TR acc: 88.085073, Val acc: 87.820819 Tst acc: 87.501993 iterations: 1000
+Learning rate: 2.000000E-03 Regularization strength: 5.000000E-05, TR acc: 88.962682, Val acc: 88.809182 Tst acc: 88.235294 iterations: 1000
+Learning rate: 2.000000E-04 Regularization strength: 1.000000E-05, TR acc: 86.321948, Val acc: 86.402040 Tst acc: 85.875976 iterations: 1000
+Learning rate: 2.000000E-04 Regularization strength: 1.500000E-05, TR acc: 86.329855, Val acc: 86.417982 Tst acc: 85.923800 iterations: 1000
+Learning rate: 2.000000E-04 Regularization strength: 2.000000E-05, TR acc: 86.290323, Val acc: 86.370158 Tst acc: 85.891918 iterations: 1000
+Learning rate: 2.000000E-04 Regularization strength: 2.500000E-05, TR acc: 86.353574, Val acc: 86.465806 Tst acc: 86.083214 iterations: 1000
+Learning rate: 2.000000E-04 Regularization strength: 3.000000E-05, TR acc: 86.314042, Val acc: 86.417982 Tst acc: 85.907859 iterations: 1000
+Learning rate: 2.000000E-04 Regularization strength: 4.000000E-05, TR acc: 86.345667, Val acc: 86.417982 Tst acc: 85.923800 iterations: 1000
+Learning rate: 2.000000E-04 Regularization strength: 5.000000E-05, TR acc: 86.329855, Val acc: 86.417982 Tst acc: 85.907859 iterations: 1000
+Experiment Finished Date/Time: Fri Mar 30 01:32:53 2018
