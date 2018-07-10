@@ -7,3 +7,4 @@ This repository contains the related source --datasets, scripts, figures, etc.--
 * **DATA:** The original dataset, its processed balanced version (494 RGB-D images per object) and the classification I/O data files. Moreover, in the same folder the confusion matrices, loss, and accurcy  values for training, validation and testing sets can be found.   
 * **Figures:** The figures that used in the paper to show sample object and classification results.  
 * **Source:** The collection of source code to process the dataset, extract representations and perform classification.  
+* **Misc:** This folder contains various documents including the author copy of the previous study in the submitted paper.  
