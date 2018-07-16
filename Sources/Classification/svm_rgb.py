@@ -25,14 +25,13 @@ def main():
     Xval, Yval = prep.extract_mat_content(io_path+'Xval_rgb.mat', 'io'), prep.extract_mat_content(io_path+'Yval_rgb.mat', 'io')
     Xtest, Ytest = prep.extract_mat_content(io_path + 'Xtst_rgb.mat', 'io'), prep.extract_mat_content(io_path + 'Ytst_rgb.mat', 'io')
 
+    # The 2nd Xval.shape must be Yval.shape
     io_info = 'Xtrain: ' + str(Xtr.shape) +' Ytrain: ' + str(Ytr.shape) +\
               ' Xval: ' + str(Xval.shape) + ' Yval: ' + str(Xval.shape) +\
               ' Xtest: ' + str(Xtest.shape) + ' Ytest: ' + str(Ytest.shape) + '\n'
 
     lg.info('IO shapes: %s', io_info)
 
-
-    # Put them in classification_funcs.py
     Xtr_b, Xval_b, Xtest_b = cl.add_bias_nodes_to_inputs(Xtr, Xval, Xtest)
     W_b = np.random.randn(splen + 1, nobjs) * 0.00001
 
